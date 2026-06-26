@@ -28,4 +28,4 @@ The dashboard delivers a comprehensive view of workforce metrics through interac
 3. Use the **Attrition Slicer** on the left to interact with and filter the graphs in real-time.
 
 ## 📸 Dashboard Preview
-![HR Attrition Dashboard](dashboard_screenshot.png) 
+![HR Attrition Dashboard](dashboard_screenshot.png.png) 
