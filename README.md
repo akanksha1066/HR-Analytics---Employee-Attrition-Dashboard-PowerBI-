@@ -27,4 +27,5 @@ The dashboard delivers a comprehensive view of workforce metrics through interac
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 3. Use the **Attrition Slicer** on the left to interact with and filter the graphs in real-time.
-4.R-Analytics---Employee-Attrition-Dashboard-PowerBI-
+## 📊 Final Dashboard Overview
+![HR Analytics Graphs](dashboard_screenshot.png)
