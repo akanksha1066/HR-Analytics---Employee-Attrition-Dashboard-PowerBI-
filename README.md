@@ -28,4 +28,4 @@ The dashboard delivers a comprehensive view of workforce metrics through interac
 2. Open it using **Power BI Desktop**.
 3. Use the **Attrition Slicer** on the left to interact with and filter the graphs in real-time.
 ## 📊 Final Dashboard Overview
-![HR Analytics Graphs](dashboard_screenshot.png)
+<img src="dashboard_screenshot.png" alt="HR Analytics Graphs" />
