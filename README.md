@@ -1,9 +1,11 @@
-#  HR Analytics - Employee Attrition Dashboard
+ # HR Analytics - Employee Attrition Dashboard
 
 ## 📌 Project Overview
 This repository contains an interactive **HR Analytics Dashboard** developed in Power BI. The primary objective of this project is to analyze corporate workforce data, discover hidden patterns behind employee turnover (attrition), and provide data-driven insights to help HR managers improve employee retention.
+
 ## 🖥️ Dashboard Preview
 ![HR Attrition Dashboard](dashboard_screenshot.png)
+
 ## 📊 Key Features & Visualizations
 The dashboard delivers a comprehensive view of workforce metrics through interactive sections:
 * **Executive KPI Cards:** Quick metrics tracking **Total Employee Count**, **Average Employee Age**, and **Average Monthly Income**.
@@ -27,5 +29,6 @@ The dashboard delivers a comprehensive view of workforce metrics through interac
 1. Download the `.pbix` file from this repository.
 2. Open it using **Power BI Desktop**.
 3. Use the **Attrition Slicer** on the left to interact with and filter the graphs in real-time.
+
 ## 📊 Final Dashboard Overview
-<img src="dashboard_screenshot.png" alt="HR Analytics Graphs" />
+![HR Analytics Graphs](dashboard_screenshot.png)
