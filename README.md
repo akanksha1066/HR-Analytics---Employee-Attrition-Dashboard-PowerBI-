@@ -1,4 +1,4 @@
-# H# HR Analytics - Employee Attrition Dashboard
+#  HR Analytics - Employee Attrition Dashboard
 
 ## 📌 Project Overview
 This repository contains an interactive **HR Analytics Dashboard** developed in Power BI. The primary objective of this project is to analyze corporate workforce data, discover hidden patterns behind employee turnover (attrition), and provide data-driven insights to help HR managers improve employee retention.
